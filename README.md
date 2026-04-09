@@ -111,10 +111,10 @@ Published accuracies on the ICBHI dataset range from 49% to 99%+. This variation
 
 | Evaluation Method | Typical Accuracy | Validity |
 |---|---|---|
-| Random cycle split (data leakage) | 85–99% | ❌ Same patient in train + test |
-| 5-fold CV without patient grouping | 80–95% | ❌ Same patient across folds |
-| Official ICBHI split (60/40) | 55–72% | ✅ Patient-aware |
-| Custom patient-aware split (this project) | 50–58% | ✅ Patient-aware, stricter |
+| Random cycle split (data leakage) | 85–99% |  Same patient in train + test |
+| 5-fold CV without patient grouping | 80–95% |  Same patient across folds |
+| Official ICBHI split (60/40) | 55–72% |  Patient-aware |
+| Custom patient-aware split (this project) | 50–58% |  Patient-aware, stricter |
 
 The current state-of-the-art with proper patient-aware evaluation achieves **64.84% ICBHI Score** for 4-class using BEATs (a 90M parameter transformer pre-trained on AudioSet). Our SVM achieves **61.1% ICBHI Score** for binary classification with a fraction of the model complexity.
 
