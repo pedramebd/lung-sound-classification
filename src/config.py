@@ -9,7 +9,7 @@ from pathlib import Path
 # Paths
 # ──────────────────────────────────────────────
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = Path(r"E:\Cardiff Uni\Projects\Sound-based lung disease detection\archive\Respiratory_Sound_Database") # Users should update this path file on their own devices
+DATA_DIR = Path(r"data/Respiratory_Sound_Database") # Users should update this path file on their own devices
 AUDIO_DIR = DATA_DIR / "audio_and_txt_files"
 OUTPUTS_DIR = PROJECT_ROOT / "outputs"
 FIGURES_DIR = OUTPUTS_DIR / "figures"

@@ -200,11 +200,11 @@ Or step through the notebooks in order (01 → 07) to reproduce all results.
 4. Ma, Y. et al. (2025). "Advances and Challenges in Respiratory Sound Analysis: A Technique Review Based on the ICBHI2017 Database." *Electronics*, 14(14), 2794.
 5. Petmezas, G. et al. (2022). "Automated Lung Sound Classification Using a Hybrid CNN-LSTM Network and Focal Loss Function." *Sensors*, 22(3), 1232.
 
-## Author
+##  Author
 
-**Pedram Ebrahimi**
-MSc Data Science and Analytics — Cardiff University
-[GitHub](https://github.com/pedramebd)
+**Pedram Ebadollahyvahed** — MSc Data Science, Cardiff University (2025–2026)
+
+[GitHub](https://github.com/pedramebd) · [LinkedIn](https://www.linkedin.com/in/pedramebadollahyvahed)
 
 ## License
 
